@@ -1,9 +1,9 @@
 # Content Moderations in Advertisements through Cultural Lens
 
-## Table of Contents
+## 🚀 Table of Contents
 - [Content Moderations in Advertisements through Cultural Lens](#content-moderations-in-advertisements-through-cultural-lens)
-  - [Table of Contents](#table-of-contents)
-  - [News](#news)
+  - [🚀 Table of Contents](#-table-of-contents)
+  - [📰 News](#-news)
   - [Introduction](#introduction)
     - [Research Questions (Tentative)](#research-questions-tentative)
     - [Hypotheses (Tentative)](#hypotheses-tentative)
@@ -26,7 +26,7 @@
     - [Evaluation](#evaluation)
   - [Citation](#citation)
 
-## News
+## 📰 News
 - [2025/02/05] Synthetic dataset 
 
 ## Introduction
@@ -134,7 +134,7 @@ _Additional detailed summaries and comparisons of each work will be added as the
   [Paper](https://irjems.org/Volume-3-Issue-10/IRJEMS-V3I10P130.pdf) | 
 - **2000 Culture, Emotion, and Well-being: Good Feelings in Japan and the United States**
   [Paper](https://web.stanford.edu/~hazelm/publications/2000%20Kitayama,%20Markus,%20&%20Kurokawa_Culture,emotion%20and%20well-being.pdf)
-  
+
 ### Cultural Knowledge
 - **2024 Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**
   [Paper](https://arxiv.org/pdf/2412.15268) 
