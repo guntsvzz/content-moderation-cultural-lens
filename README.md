@@ -18,6 +18,12 @@
   - [Methodology](#methodology)
   - [Papers](#papers)
     - [Literature Review](#literature-review)
+    - [Cultural Theory](#cultural-theory)
+    - [Cultural Knowledge](#cultural-knowledge-1)
+    - [Emotions](#emotions)
+    - [Hate Speech](#hate-speech)
+    - [Cultureal Bias \& Social Bias](#cultureal-bias--social-bias)
+    - [Evaluation](#evaluation)
   - [Citation](#citation)
 
 ## News
@@ -122,6 +128,49 @@ This section provides a comprehensive review of existing literature on AI modera
   
 _Additional detailed summaries and comparisons of each work will be added as the literature review is expanded._
 
+
+### Cultural Theory
+- **2024 Cultural Differences Affecting Advertising**
+  [Paper](https://irjems.org/Volume-3-Issue-10/IRJEMS-V3I10P130.pdf) | 
+- **2000 Culture, Emotion, and Well-being: Good Feelings in Japan and the United States**
+  [Paper](https://web.stanford.edu/~hazelm/publications/2000%20Kitayama,%20Markus,%20&%20Kurokawa_Culture,emotion%20and%20well-being.pdf)
+  
+### Cultural Knowledge
+- **2024 Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**
+  [Paper](https://arxiv.org/pdf/2412.15268) 
+- **2023 Culturally Aware Natural Language Inference**
+  [Paper](https://aclanthology.org/2023.findings-emnlp.509.pdf)
+- **2024 CultureBank**
+  [Paper](https://arxiv.org/pdf/2404.15238)
+- **2024 BLEND: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages**
+  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8eb88844dafefa92a26aaec9f3acad93-Paper-Datasets_and_Benchmarks_Track.pdf)
+- **2024 Mango Cultural Commonsense Knowledge for Intercultural Dialogues**
+  [Paper](https://arxiv.org/pdf/2402.10689) [Code](https://mango.mpi-inf.mpg.de/)
+- **2023 Extracting Cultural Commonsense Knowledge at Scale**
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583535) [Code](https://candle.mpi-inf.mpg.de/)
+- **2025 NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**
+  [Paper](https://arxiv.org/pdf/2404.12464)
+
+### Emotions
+- **2020 GoEmotions: A Dataset of Fine-Grained Emotions**  
+  [Paper](https://aclanthology.org/2020.acl-main.372.pdf)
+
+### Hate Speech
+- **2024 Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis**  
+  [paper](https://aclanthology.org/2024.naacl-long.236v2.pdf) 
+  
+### Cultureal Bias & Social Bias
+- **2024 Having Beer after Prayer? Measuring Cultural Bias in Large Language Models**
+  [Paper](https://arxiv.org/pdf/2305.14456)
+- **2023 Cultural Concept Adaptation on Multimodal Reasoning**
+  [Paper](https://aclanthology.org/2023.emnlp-main.18.pdf)
+- **2020 SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language**
+  [Paper](https://aclanthology.org/2020.acl-main.486.pdf)
+  
+### Evaluation
+- **CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge**
+  [Paper](https://arxiv.org/pdf/2404.06664)
+  
 ## Citation 
 If you find this work useful, please consider citing our paper:
 ```
