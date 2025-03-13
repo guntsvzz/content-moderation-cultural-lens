@@ -1,13 +1,13 @@
-# Content Moderations in Advertisements through Cultural Lens
+# 📃 Content Moderations in Advertisements through Cultural Lens
 
 ## 🚀 Table of Contents
-- [Content Moderations in Advertisements through Cultural Lens](#content-moderations-in-advertisements-through-cultural-lens)
+- [📃 Content Moderations in Advertisements through Cultural Lens](#-content-moderations-in-advertisements-through-cultural-lens)
   - [🚀 Table of Contents](#-table-of-contents)
   - [📰 News](#-news)
   - [Introduction](#introduction)
     - [Research Questions (Tentative)](#research-questions-tentative)
     - [Hypotheses (Tentative)](#hypotheses-tentative)
-  - [Cultural Terminology](#cultural-terminology)
+  - [🌎 Cultural Terminology](#-cultural-terminology)
     - [Cultural Awareness](#cultural-awareness)
     - [Cultural Knowledge](#cultural-knowledge)
     - [Cultural Sensitivity](#cultural-sensitivity)
@@ -15,16 +15,15 @@
     - [Cultural Misconception](#cultural-misconception)
   - [What is the Culture Iceberg Theory?](#what-is-the-culture-iceberg-theory)
     - [Aspect Comparison: Surface Level vs. Deep-Level](#aspect-comparison-surface-level-vs-deep-level)
-  - [Methodology](#methodology)
+  - [📥 Methodology](#-methodology)
   - [Papers](#papers)
-    - [Literature Review](#literature-review)
     - [Cultural Theory](#cultural-theory)
     - [Cultural Knowledge](#cultural-knowledge-1)
     - [Emotions](#emotions)
     - [Hate Speech \& Toxicity](#hate-speech--toxicity)
     - [Cultureal Bias \& Social Bias](#cultureal-bias--social-bias)
     - [Evaluation](#evaluation)
-  - [Citation](#citation)
+  - [📋 Citation](#-citation)
 
 ## 📰 News
 - [2025/03/13] Experiment 02 - Augment Cultural Knowledge to synthetic advertisment contents. 
@@ -49,7 +48,7 @@ By integrating commonsense cultural knowledge with bias detection, our approach 
 - **H2:** Combining explicit (knowledge graph-based) and implicit (hypothetical thinking) cultural analysis will lead to a more balanced and contextually aware AI moderation system, mitigating over-censorship while improving fairness across diverse audiences.
 - **H3:** The Cultural Iceberg Theory can enhance AI moderation by providing a structured framework that differentiates explicit cultural markers from implicit cultural meanings, reducing misclassification errors in advertisements.
 
-## Cultural Terminology
+## 🌎 Cultural Terminology
 
 ### Cultural Awareness
 - **Definition:** Recognition that different cultures exist and influence people's behaviors, beliefs, and values.
@@ -86,7 +85,7 @@ Developed by anthropologist **Edward T. Hall in 1976**, this theory underscores 
 | **Examples**           | Clothing, food, language, symbols                    | Power dynamics, historical sensitivities, emotional norms |
 | **LLM Role**           | Uses ConceptNet/Knowledge Graphs to map explicit elements | Uses hypothesis thinking to extract objects and analyze cultural depth |
 
-## Methodology
+## 📥 Methodology
 Our methodology integrates both explicit and implicit analysis to enhance AI-driven content moderation through cultural sensitivity. The process involves several key stages:
 
 1. **Data Collection:**  
@@ -116,77 +115,73 @@ The workflow and integration of these components are visually summarized in the 
 ## Papers
 Below is a curated list of key papers that have contributed to the field, along with their associated resources. Feel free to explore these works for more insights:
 
+This section provides a comprehensive review of existing literature on AI moderation, cultural sensitivity, and related frameworks. It highlights:
+- Trends and challenges in AI content moderation.
+- The role of cultural sensitivity in improving automated systems.
+- Comparative analyses of explicit vs. implicit cultural elements in research.
+
 - **ACL-2023: Title of the Paper**  
   [paper](#) | [code](#) | *Authors: Author1, Author2, Author3*
 - **Example Paper 2**  
   [paper](#) | [code](#) | *Authors: AuthorA, AuthorB*
 
-### Literature Review
-This section provides a comprehensive review of existing literature on AI moderation, cultural sensitivity, and related frameworks. It highlights:
-- Trends and challenges in AI content moderation.
-- The role of cultural sensitivity in improving automated systems.
-- Comparative analyses of explicit vs. implicit cultural elements in research.
-  
-_Additional detailed summaries and comparisons of each work will be added as the literature review is expanded._
-
-
 ### Cultural Theory
 - **2024 Cultural Differences Affecting Advertising**
-  [Paper](https://irjems.org/Volume-3-Issue-10/IRJEMS-V3I10P130.pdf) | 
+  [Paper](https://irjems.org/Volume-3-Issue-10/IRJEMS-V3I10P130.pdf) | Code 
 - **2000 Culture, Emotion, and Well-being: Good Feelings in Japan and the United States**
-  [Paper](https://web.stanford.edu/~hazelm/publications/2000%20Kitayama,%20Markus,%20&%20Kurokawa_Culture,emotion%20and%20well-being.pdf)
+  [Paper](https://web.stanford.edu/~hazelm/publications/2000%20Kitayama,%20Markus,%20&%20Kurokawa_Culture,emotion%20and%20well-being.pdf) | Code 
 - **1998 Transcultural Care: A guide for Health Care Professionals.**  
-  [Paper](https://ieneproject.eu/download/Outputs/intercultural%20model.pdf)
+  [Paper](https://ieneproject.eu/download/Outputs/intercultural%20model.pdf) | Code 
 
 ### Cultural Knowledge
 - **2024 Meta-Toxic : Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**
-  [Paper](https://arxiv.org/pdf/2412.15268) 
+  [Paper](https://arxiv.org/pdf/2412.15268) | Code 
 - **2023 Culturally Aware Natural Language Inference**
-  [Paper](https://aclanthology.org/2023.findings-emnlp.509.pdf)
+  [Paper](https://aclanthology.org/2023.findings-emnlp.509.pdf) | Code 
 - **2024 CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**
-  [Paper](https://arxiv.org/pdf/2404.15238)
+  [Paper](https://arxiv.org/pdf/2404.15238) | Code 
 - **2024 BLEND: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages**
-  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8eb88844dafefa92a26aaec9f3acad93-Paper-Datasets_and_Benchmarks_Track.pdf)
+  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8eb88844dafefa92a26aaec9f3acad93-Paper-Datasets_and_Benchmarks_Track.pdf) | Code 
 - **2024 MANGO : Cultural Commonsense Knowledge for Intercultural Dialogues**
-  [Paper](https://arxiv.org/pdf/2402.10689) [Code](https://mango.mpi-inf.mpg.de/)
+  [Paper](https://arxiv.org/pdf/2402.10689) | [Code](https://mango.mpi-inf.mpg.de/)
 - **2023 CANDLE : Extracting Cultural Commonsense Knowledge at Scale**
-  [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583535) [Code](https://candle.mpi-inf.mpg.de/)
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583535)| [Code](https://candle.mpi-inf.mpg.de/)
 - **2025 NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**
-  [Paper](https://arxiv.org/pdf/2404.12464)
+  [Paper](https://arxiv.org/pdf/2404.12464)| Code 
 - **2023 GlobalOpinionQA : Towards Measuring the Representation of Subjective Global Opinions in Language Models**
-  [Paper](https://arxiv.org/abs/2306.16388)
+  [Paper](https://arxiv.org/abs/2306.16388)| Code 
 
 ### Emotions
 - **2020 GoEmotions: A Dataset of Fine-Grained Emotions**  
-  [Paper](https://aclanthology.org/2020.acl-main.372.pdf)
+  [Paper](https://aclanthology.org/2020.acl-main.372.pdf)| Code 
 
 ### Hate Speech & Toxicity
 - **2025 Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models**
-  [Paper](https://arxiv.org/pdf/2411.03888#page=15.45)
+  [Paper](https://arxiv.org/pdf/2411.03888#page=15.45)| Code 
 - **2024 Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis**  
-  [paper](https://aclanthology.org/2024.naacl-long.236v2.pdf) 
+  [paper](https://aclanthology.org/2024.naacl-long.236v2.pdf) | Code 
 - **2024 Can LLMs Recognize Toxicity? A Structured Investigation Framework and Toxicity Metric**
-  [Paper](https://arxiv.org/pdf/2402.06900)
+  [Paper](https://arxiv.org/pdf/2402.06900)| Code 
 - **2024 Don’t Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection**
-  [Paper](https://arxiv.org/pdf/2402.11406)
+  [Paper](https://arxiv.org/pdf/2402.11406)| Code 
 - **2024 Socio-Culturally Aware Evaluation Framework for LLM-Based Content Moderation*
-  [Paper](https://arxiv.org/pdf/2412.13578)
+  [Paper](https://arxiv.org/pdf/2412.13578)| Code 
   
 ### Cultureal Bias & Social Bias
 - **2024 Having Beer after Prayer? Measuring Cultural Bias in Large Language Models**
-  [Paper](https://arxiv.org/pdf/2305.14456)
+  [Paper](https://arxiv.org/pdf/2305.14456)| Code 
 - **2023 Cultural Concept Adaptation on Multimodal Reasoning**
-  [Paper](https://aclanthology.org/2023.emnlp-main.18.pdf)
+  [Paper](https://aclanthology.org/2023.emnlp-main.18.pdf)| Code 
 - **2020 SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language**
-  [Paper](https://aclanthology.org/2020.acl-main.486.pdf)
+  [Paper](https://aclanthology.org/2020.acl-main.486.pdf)| Code 
   
 ### Evaluation
 - **2024 CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge**
-  [Paper](https://arxiv.org/pdf/2404.06664)
+  [Paper](https://arxiv.org/pdf/2404.06664)| Code 
 - **2024 Evaluating Cultural and Social Awareness of LLM Web Agents**
-  [Paper](https://arxiv.org/pdf/2410.23252)
+  [Paper](https://arxiv.org/pdf/2410.23252)| Code 
   
-## Citation 
+## 📋 Citation 
 If you find this work useful, please consider citing our paper:
 ```
 @misc{tt2025comads,
