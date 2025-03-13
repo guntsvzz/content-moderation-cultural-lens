@@ -8,17 +8,12 @@
     - [Research Questions (Tentative)](#research-questions-tentative)
     - [Hypotheses (Tentative)](#hypotheses-tentative)
   - [🌎 Cultural Terminology](#-cultural-terminology)
-    - [Cultural Awareness](#cultural-awareness)
-    - [Cultural Knowledge](#cultural-knowledge)
-    - [Cultural Sensitivity](#cultural-sensitivity)
-    - [Cultural Misunderstanding](#cultural-misunderstanding)
-    - [Cultural Misconception](#cultural-misconception)
   - [What is the Culture Iceberg Theory?](#what-is-the-culture-iceberg-theory)
     - [Aspect Comparison: Surface Level vs. Deep-Level](#aspect-comparison-surface-level-vs-deep-level)
   - [📥 Methodology](#-methodology)
   - [Papers](#papers)
     - [Cultural Theory](#cultural-theory)
-    - [Cultural Knowledge](#cultural-knowledge-1)
+    - [Cultural Knowledge](#cultural-knowledge)
     - [Emotions](#emotions)
     - [Hate Speech \& Toxicity](#hate-speech--toxicity)
     - [Cultureal Bias \& Social Bias](#cultureal-bias--social-bias)
@@ -28,6 +23,7 @@
 ## 📰 News
 - [2025/03/13] Experiment 02 - Augment Cultural Knowledge to synthetic advertisment contents. 
 - [2025/02/05] Experiment 01 - Parametric Knowledge Synthetic dataset from advertisment contents.
+- [2025/01/01] Experiment 00 - Reserach Idea 
 
 ## Introduction
 Social media platforms are widely popular and frequently serve as channels for advertisements. Increasingly, these advertisements rely on AI-driven content moderation to detect and filter harmful content such as hate speech, misinformation, and explicit material. While such advancements have improved online safety, current moderation systems often lack a cultural sensitivity lens—critical for understanding how diverse audiences interpret information.
@@ -50,25 +46,15 @@ By integrating commonsense cultural knowledge with bias detection, our approach 
 
 ## 🌎 Cultural Terminology
 
-### Cultural Awareness
-- **Definition:** Recognition that different cultures exist and influence people's behaviors, beliefs, and values.
-- **Example:** Realizing that bowing is a common greeting in Japan, while handshakes are preferred in the West.
+| **Term**               | **Definition**                                                                                          | **Example**                                                                                                                                   |
+|------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cultural Awareness**  | Recognition that different cultures exist and influence people's behaviors, beliefs, and values.         | Realizing that bowing is a common greeting in Japan, while handshakes are preferred in the West.                                              |
+| **Cultural Knowledge**  | A deeper understanding of different cultures, including their history, values, traditions, and communication styles. | Understanding that in some Middle Eastern cultures, showing the sole of your shoe is considered disrespectful.                               |
+| **Cultural Sensitivity**| The ability to interact with and respect different cultures without offending or imposing one’s own cultural values. | Avoiding jokes or stereotypes that might be offensive to a particular cultural group.                                                         |
+| **Cultural Misunderstanding** | Situations where differences in cultural norms or expectations lead to confusion or incorrect assumptions, often due to a lack of awareness. | A Western manager mistakenly assuming that an employee from an East Asian background is uninterested in leadership roles because they do not actively self-promote. |
+| **Cultural Misconception** | A false or inaccurate belief about a culture, often based on stereotypes, biases, or limited exposure.      | Thinking that all people from a certain culture eat spicy food or that a particular nationality is inherently rude.                          |
 
-### Cultural Knowledge
-- **Definition:** A deeper understanding of different cultures, including their history, values, traditions, and communication styles.
-- **Example:** Understanding that in some Middle Eastern cultures, showing the sole of your shoe is considered disrespectful.
-
-### Cultural Sensitivity
-- **Definition:** The ability to interact with and respect different cultures without offending or imposing one’s own cultural values.
-- **Example:** Avoiding jokes or stereotypes that might be offensive to a particular cultural group.
-
-### Cultural Misunderstanding
-- **Definition:** Situations where differences in cultural norms or expectations lead to confusion or incorrect assumptions, often due to a lack of awareness.
-- **Example:** A Western manager mistakenly assuming that an employee from an East Asian background is uninterested in leadership roles because they do not actively self-promote.
-
-### Cultural Misconception
-- **Definition:** A false or inaccurate belief about a culture, often based on stereotypes, biases, or limited exposure.
-- **Example:** Thinking that all people from a certain culture eat spicy food or that a particular nationality is inherently rude.
+This table should help illustrate the distinctions between these concepts.
 
 ## What is the Culture Iceberg Theory?
 The Culture Iceberg Theory is a powerful analogy that illustrates how much of culture is invisible and intangible. It emphasizes that:
@@ -126,9 +112,9 @@ This section provides a comprehensive review of existing literature on AI modera
   [paper](#) | [code](#) | *Authors: AuthorA, AuthorB*
 
 ### Cultural Theory
-- **2024 Cultural Differences Affecting Advertising**
+- **2024 Cultural Differences Affecting Advertising.**
   [Paper](https://irjems.org/Volume-3-Issue-10/IRJEMS-V3I10P130.pdf) | Code 
-- **2000 Culture, Emotion, and Well-being: Good Feelings in Japan and the United States**
+- **2000 Culture, Emotion, and Well-being: Good Feelings in Japan and the United States.**
   [Paper](https://web.stanford.edu/~hazelm/publications/2000%20Kitayama,%20Markus,%20&%20Kurokawa_Culture,emotion%20and%20well-being.pdf) | Code 
 - **1998 Transcultural Care: A guide for Health Care Professionals.**  
   [Paper](https://ieneproject.eu/download/Outputs/intercultural%20model.pdf) | Code 

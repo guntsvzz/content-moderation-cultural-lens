@@ -2,3 +2,4 @@ openai==1.58.1
 python-dotenv==1.0.0
 pydantic
 tqdm
+spacy

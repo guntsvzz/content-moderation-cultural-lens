@@ -263,10 +263,10 @@ def main():
             ads.append(ad.dict())  # Convert Pydantic model to dict for JSON output
 
     # Save the synthetic dataset as a JSON file
-    with open("synthetic_ad_dataset.json", "w", encoding="utf-8") as file:
+    with open("experiment-01/synthetic_ad_dataset_v1.json", "w", encoding="utf-8") as file:
         json.dump(ads, file, ensure_ascii=False, indent=4)
 
-    print("Synthetic dataset generated and saved as 'synthetic_ad_dataset.json'.")
+    print("Synthetic dataset generated and saved as 'synthetic_ad_dataset_v1.json'.")
 
 if __name__ == "__main__":
     main()

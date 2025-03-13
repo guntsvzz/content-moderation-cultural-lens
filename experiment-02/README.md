@@ -11,6 +11,9 @@ This repository provides instructions for downloading two cultural commonsense k
     - [Paper](https://arxiv.org/pdf/2402.10689)
     - [Code & Project Website](https://mango.mpi-inf.mpg.de/)
     - [GitHub Repository](https://github.com/cultural-csk/mango)
+  - **Dataset Details:**
+    - **File Name:** `mango_dataset_v1`
+    - **Sample Size:** 167,396 samples
 
 - **Candle Dataset**
   - **Title:** 2023 CANDLE: Extracting Cultural Commonsense Knowledge at Scale
@@ -19,6 +22,15 @@ This repository provides instructions for downloading two cultural commonsense k
     - [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583535)
     - [Code & Project Website](https://candle.mpi-inf.mpg.de/)
     - [GitHub Repository](https://github.com/cultural-csk/candle)
+  - **Dataset Details:**
+    - **File Name:** `candle_dataset_v1`
+    - **Sample Size:** 60,134 samples
+
+## Sample Files
+
+- **Candle Sample File:**
+  - **File Name:** `500-cultural-multiple-choice-questions.jsonl`
+  - **Sample Size:** 500 samples (small sample file for testing purposes)
 
 ## Download Instructions
 

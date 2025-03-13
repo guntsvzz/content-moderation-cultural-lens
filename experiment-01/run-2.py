@@ -176,10 +176,10 @@ def main():
             if ad_content:
                 ads.append(ad_content.dict())
 
-    with open("synthetic_ad_dataset.json", "w", encoding="utf-8") as file:
+    with open("experiment-01/synthetic_ad_dataset_v2.json", "w", encoding="utf-8") as file:
         json.dump(ads, file, ensure_ascii=False, indent=4)
 
-    print("Dataset saved as 'synthetic_ad_dataset.json'.")
+    print("Dataset saved as 'synthetic_ad_dataset_v2.json'.")
 
 if __name__ == "__main__":
     main()
