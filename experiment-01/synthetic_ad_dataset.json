@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Crispy Rice Snacks – Food (Cultural Insensitivity)",
+        "ad_type": "Food",
+        "country": "Vietnam",
+        "concept": "Cultural Unawareness + Offensive",
+        "storyboard": "- Scene 1: A vibrant street market filled with local Vietnamese food vendors, vibrant colors, and traditional cultural attire.\n- Scene 2: A group of non-Vietnamese tourists excitedly discovering a new rice snack, taking exaggerated bites, and smiling broadly.\n- Scene 3: One tourist comments, \"These snacks are a great way to fully experience another culture!\" while another shares, \"They're just like American crunchy snacks!\"\n- Scene 4: The ad ends with a catchy jingle and a voiceover stating, \"Get a taste of Vietnam with Crispy Rice Snacks – snack like a local!\"",
+        "ads_description": "\"Enjoy the authentic crunch of Vietnamese culture with every bite!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Cultural Insensitivity – The portrayal of a lack of understanding and respect for the nuances of Vietnamese food culture through the exaggeration of tourists' experiences."
+    },
+    {
+        "title": "Taste of Home",
+        "ad_type": "Food",
+        "country": "Vietnam",
+        "concept": "In-group language + Nationality",
+        "storyboard": "- Scene 1: A Vietnamese family gathers around a table filled with traditional dishes, laughing and sharing stories.  \n- Scene 2: Close-up shots of vibrant dishes being prepared, showcasing ingredients like fish sauce and fresh herbs.  \n- Scene 3: Children serving their grandparents, highlighting cultural respect and familial bonds.  \n- Scene 4: Voiceover: \"With our products, every meal is a celebration of family and tradition.\"  \n",
+        "ads_description": "\"Bring the taste of home to your family table!\"",
+        "social_bias": "In-group language - The focus on family and traditional meals may alienate those unfamiliar with Vietnamese culture or cuisine.",
+        "hate_speech": null,
+        "culture": "Cultural pride - Celebrates Vietnamese culinary traditions, reinforcing a sense of national identity."
+    },
+    {
+        "title": "Cultural Confusion",
+        "ad_type": "Fashion",
+        "country": "Thailand",
+        "concept": "Intend to offend + Culture Misconception",
+        "storyboard": "- Scene 1: A group of models dress in traditional Thai attire exaggeratedly, posing in front of a modern, urban background. \n- Scene 2: The models strike poses mimicking traditional Thai dance moves, but paired with high-fashion poses. \n- Scene 3: Close-ups on the models' outfits emphasizing the blend of fashion and culture without context. \n- Scene 4: The ad concludes with the tagline overlaid on an urban skyline, depicting an 'exotic' vision of Thailand. ",
+        "ads_description": "\"Redefine tradition with urban style!\"",
+        "social_bias": "Cultural Misrepresentation",
+        "hate_speech": null,
+        "culture": null
+    },
+    {
+        "title": "The Outspoken Trendsetter – Fashion Ad (Cultural Insensitivity & Mockery)",
+        "ad_type": "Fashion",
+        "country": "Vietnam",
+        "concept": "Intend to offend",
+        "storyboard": "- Scene 1: A group of fashionably dressed individuals mock traditional Vietnamese attire while laughing at a market.  \n- Scene 2: One influencer poses dramatically while wearing a modern twist on the áo dài, making exaggerated gestures as the camera zooms in.  \n- Scene 3: They take selfies with traditional items, emphasizing the contrast while ridiculing the original styles.  \n- Scene 4: Voiceover: \"Dare to be different and challenge the norms of fashion in Vietnam!\"",
+        "ads_description": "\"Make a statement that turns heads, disrupt expectations!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": null
+    },
+    {
+        "title": "Inclusive Learning for All",
+        "ad_type": "Education (Cultural Insensitivity & LGBTQ+ Stereotyping)",
+        "country": "Thailand",
+        "concept": "Group Implications + LGBTQ+",
+        "storyboard": "- Scene 1: A bright classroom where students of diverse backgrounds interact enthusiastically with each other.\n- Scene 2: A teacher introduces a lesson that discusses various family structures, including same-sex couples, highlighting inclusivity.\n- Scene 3: Students share their thoughts in groups, showing support and acceptance of each other's experiences related to identity and orientation.\n- Scene 4: The ad ends with a banner that says, 'Every student belongs' and a call to action encouraging viewers to promote acceptance.\n",
+        "ads_description": "\"Education that embraces every color of the rainbow.\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Thai culture promotes family and traditional values, which may complicate acceptance of LGBTQ+ representation."
+    },
+    {
+        "title": "Cultural Awareness Campaign – Educational Program (Cultural Inappropriation)",
+        "ad_type": "Education",
+        "country": "Thailand",
+        "concept": "Cultural Inappropriation",
+        "storyboard": "- Scene 1: A classroom filled with students from various backgrounds discusses cultural symbols and their meanings.  \n- Scene 2: A close-up of a student mistakenly wearing a traditional headdress as a costume, prompting disapproving looks from peers.  \n- Scene 3: The teacher explains the importance of respecting cultural symbols and engages the class in a discussion.  \n- Scene 4: The ad ends with a message on the screen: 'Celebrate culture with respect; learn about diversity in our education program.'",
+        "ads_description": "\"Respect culture, celebrate diversity!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Cultural Education"
+    },
+    {
+        "title": "Unity in Innovation\" – Tech Ad (Ethnic Stereotyping)",
+        "ad_type": "Tech",
+        "country": "Thailand",
+        "concept": "Ethnicity + In-group Language",
+        "storyboard": "- Scene 1: A vibrant tech conference bustling with diverse participants from various ethnic backgrounds.\n- Scene 2: A group of students from the same ethnicity excitedly discussing a new project, using their native language in a lively manner.\n- Scene 3: The camera zooms in on their innovation, showcasing their tech product on large screens with flashing graphics.\n- Scene 4: Voiceover: \"Celebrate innovation from every culture and unite through technology.\"",
+        "ads_description": "\"Where creativity knows no boundaries—experience tech that connects us all!\"",
+        "social_bias": "Ethnic Stereotyping – The ad reinforces the idea that innovation is tied to specific ethnic groups, undermining the contributions of others and creating an implicit hierarchy of technological advancement.",
+        "hate_speech": null,
+        "culture": "Cultural Insensitivity – Using in-group language creates an exclusionary barrier for non-speakers, suggesting that technological innovation is best understood within particular ethnic circles."
+    },
+    {
+        "title": "Cultural Roots in Tech",
+        "ad_type": "Tech",
+        "country": "Vietnam",
+        "concept": "Cultural Inappropriation + Nationality",
+        "storyboard": "- Scene 1: A group of diverse individuals is shown working in front of computers, displaying vibrant cultural elements (e.g., traditional outfits, decor).  \n- Scene 2: One of the individuals presents an innovative tech solution inspired by local Vietnamese culture, intertwining traditional motifs with modern tech.  \n- Scene 3: The product launch is depicted with a vibrant festival backdrop, showcasing a blend of old and new with joyful community members embracing technology.  \n- Scene 4: Voiceover: \"Harnessing our heritage, powering our future. Join us in the tech revolution.\"",
+        "ads_description": "\"Embrace your culture while innovating for tomorrow.\"",
+        "social_bias": "Cultural Misrepresentation – The ad romanticizes and commodifies Vietnamese culture without genuine representation or context.",
+        "hate_speech": null,
+        "culture": "Cultural Inappropriation – Presents local cultural elements in a way that may simplify or misinterpret their significance."
+    },
+    {
+        "title": "Explore Your Roots – Travel Ad (Cultural Stereotyping)",
+        "ad_type": "Travel",
+        "country": "Vietnam",
+        "concept": "Implied statement",
+        "storyboard": "- Scene 1: A local Vietnamese family prepares a traditional meal, showcasing vibrant ingredients and cooking techniques.\n- Scene 2: A tourist watches with fascination and smiles as the family invites him to join the preparation.\n- Scene 3: The scene shifts to the tourist enjoying the meal with the family, laughing and sharing stories.\n- Scene 4: Voiceover: 'Discover the richness of your heritage with every bite.'",
+        "ads_description": "\"Reconnect with your heritage through unforgettable culinary adventures!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Cultural Stereotyping – Promoting the idea that Vietnamese culture revolves solely around traditional culinary practices, potentially marginalizing other cultural aspects."
+    },
+    {
+        "title": "Journey to Discovery",
+        "ad_type": "Travel",
+        "country": "Thailand",
+        "concept": "Ethnicity + Implied statement",
+        "storyboard": "- Scene 1: A family of various ethnic backgrounds eagerly awaits their boarding call at an airport, smiling and laughing together.  \n- Scene 2: They share experiences at a bustling market, interacting with local vendors and tasting diverse foods.  \n- Scene 3: The family is seen hiking through scenic mountains, with breathtaking views in the background.  \n- Scene 4: The ad closes with a montage of joyful faces from different cultures united by their travel journey, culminating in the tagline displayed on screen.\n",
+        "ads_description": "\"Experience the world through diverse eyes—travel beyond borders and cultures!\"",
+        "social_bias": "Implicit Bias – The ad implies that only multicultural families can truly appreciate travel, undermining solo or homogenous traveler experiences.",
+        "hate_speech": null,
+        "culture": "Cultural Insensitivity – The portrayal may suggest that only those with diverse ethnic backgrounds can form genuine connections while traveling, thus marginalizing other travelers' experiences."
+    },
+    {
+        "title": "Healing Nature",
+        "ad_type": "Healthcare (Cultural Insensitivity)",
+        "country": "Vietnam",
+        "concept": "offensive + Cultural Unawareness",
+        "storyboard": "- Scene 1: A rural Vietnamese family is seen struggling with health issues, surrounded by traditional medicine. \n- Scene 2: A Western doctor arrives, confidently waving away traditional methods and presenting a modern healthcare solution. \n- Scene 3: The family eagerly accepts the Western solution, turning their back on their heritage. \n- Scene 4: The ad ends with a voiceover: \"Trust science. Embrace our healthcare for a healthier future.\"",
+        "ads_description": "\"Choose modern healthcare—your path to a healthier life!\"",
+        "social_bias": "Cultural Insensitivity – The ad suggests that traditional Vietnamese medicine is ineffective and promotes a Western-centric view of health care.",
+        "hate_speech": "null",
+        "culture": "Cultural Misrepresentation – The portrayal of traditional values as outmoded reinforces a negative stereotype about Vietnamese culture."
+    },
+    {
+        "title": "Healing Together",
+        "ad_type": "Healthcare (Religious Bias)",
+        "country": "Thailand",
+        "concept": "In-group language + Religion",
+        "storyboard": "- Scene 1: A serene temple setting with individuals of various ages praying together for health and wellness.  \n- Scene 2: Close-ups of their hands clasped in prayer, soft light filtering through the scene.  \n- Scene 3: A healthcare professional in a white coat kneels amongst them, smiling gently, emphasizing community care.  \n- Scene 4: The camera pans out to show the temple filled with people, the voiceover stating: \"In unity, we find strength; in faith, we find healing.\"",
+        "ads_description": "\"Together in faith, we heal with love.\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Religious favoritism – The ad promotes a specific religious view as the primary means of achieving health, potentially alienating non-adherents."
+    },
+    {
+        "title": "The New Drive – Car Ad (Cultural Misconceptions)",
+        "ad_type": "Automotive",
+        "country": "Vietnam",
+        "concept": "Ethnicity + Culture Misconception",
+        "storyboard": "- Scene 1: A sleek car pulls up to a beautiful coastal view in Vietnam, with traditional cultural landmarks in the background.\n- Scene 2: As the car doors open, a diverse group of friends of different ethnic backgrounds leap out, laughing and engaging with the locals in native attire.\n- Scene 3: Cut to shots of the friends enjoying local cuisine and participating in cultural activities, such as traditional dance.\n- Scene 4: A voiceover states, \"No matter where you're from, you can explore and embrace the world in our new model.\"",
+        "ads_description": "\"Experience life and culture together, wherever the road takes you!\"",
+        "social_bias": "Cultural Insensitivity",
+        "hate_speech": null,
+        "culture": "Cultural Misconceptions – The ad romanticizes cultural interactions, implying that all ethnic groups are interchangeable and able to engage with local customs without addressing cultural appropriation and sensitivity in a nuanced way."
+    },
+    {
+        "title": "The All-New Sensation",
+        "ad_type": "Automotive (Sexualization & Objectification)",
+        "country": "Thailand",
+        "concept": "A seductive portrayal of a new car model, blending lustful imagery and automotive aesthetics.",
+        "storyboard": "- Scene 1: A sleek, shiny car is shown on a deserted road during sunset, reflecting the vibrant colors in the sky.  \n- Scene 2: A well-dressed, attractive individual approaches the car, leaning against it in a suggestive pose while glancing at the camera flirtatiously.  \n- Scene 3: Quick cuts of the car’s curves and features, interspersed with close-ups of the individual’s alluring expressions and movements.  \n- Scene 4: The ad concludes with the tagline over a panoramic view of the car driving off into the distance, as the voiceover says, \"Ignite your passions with the new Sensation.\"",
+        "ads_description": "\"Ignite your passions on the road with the all-new Sensation!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": null
+    },
+    {
+        "title": "The Path to Prosperity",
+        "ad_type": "Financial",
+        "country": "Thailand",
+        "concept": "Cultural Unawareness",
+        "storyboard": "- Scene 1: A bustling marketplace in Thailand, showcasing locals engaged in vibrant trade activities.\n- Scene 2: A narrator highlights the importance of financial literacy, while images of young Thais struggling with budgeting flash on the screen.\n- Scene 3: Transition to a sleek, modern office where financial advisors are depicted assisting clients.\n- Scene 4: The tagline appears on screen as the marketplace fades, accompanied by upbeat music to symbolize growth and success.",
+        "ads_description": "\"Unlock your potential with our expert financial guidance!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Cultural Insensitivity – The ad presents a narrow view of financial struggles, implying that individuals can only succeed through Western-style financial intervention."
+    },
+    {
+        "title": "Financial Freedom Awaits",
+        "ad_type": "Financial",
+        "country": "Vietnam",
+        "concept": "In-group language",
+        "storyboard": "- Scene 1: A young professional is shown looking stressed as bills pile up on a desk, face illuminated by the glow of a computer screen.\n- Scene 2: The scene shifts to her attending a seminar on financial management, mingling with other young adults sharing practical strategies.\n- Scene 3: Quick cuts show her implementing budgeting tools and feeling empowered as her financial situation improves.\n- Scene 4: The ad ends with a group of young professionals smiling and celebrating financial independence while promoting the financial service at hand.",
+        "ads_description": "\"Transform your financial future with us—where knowledge meets community!\"",
+        "social_bias": "N/A",
+        "hate_speech": "N/A",
+        "culture": "N/A"
+    },
+    {
+        "title": "Beauty in Diversity",
+        "ad_type": "Cosmetics",
+        "country": "Thailand",
+        "concept": "Political Issues",
+        "storyboard": "- Scene 1: A montage of diverse Thai women showcasing different skin tones and facial features, smiling confidently in everyday situations.\n- Scene 2: A voiceover discusses Thailand's rich cultural diversity, highlighting issues of beauty standards and self-acceptance.\n- Scene 3: Close-ups of women applying the cosmetics, with each product catering to different skin tones, emphasizing its inclusivity.\n- Scene 4: The final scene shows all the women together in a vibrant celebration, with the tagline appearing on screen, encouraging viewers to embrace their unique beauty.",
+        "ads_description": "\"Celebrate your beauty, embrace our diversity with [Brand Name].\"",
+        "social_bias": "Cultural Bias – The ad highlights beauty standards that favor lighter skin tones, subtly implying that the product enhances beauty only for certain skin tones. It may overlook the wide range of beauty celebrated across different regions.",
+        "hate_speech": "null",
+        "culture": "null"
+    },
+    {
+        "title": "Radiant Beauty",
+        "ad_type": "Cosmetics (Colorism & Gender Bias)",
+        "country": "Thailand",
+        "concept": "Implied statement",
+        "storyboard": "- Scene 1: Diverse group of women smiles as they apply different shades of foundation in a brightly lit room.  \n- Scene 2: A fair-skinned woman applies the same product, and her skin glows in the light, causing others to notice and admire her.  \n- Scene 3: The camera zooms in on the fair-skinned woman's flawless complexion while the others seem slightly overshadowed.  \n- Scene 4: The tagline appears on screen: \"Illuminate your beauty with our classic range—shine, just like her!\"",
+        "ads_description": "\"Illuminate your beauty with our classic range—shine, just like her!\"",
+        "social_bias": null,
+        "hate_speech": null,
+        "culture": "Colorism – Favoring lighter skin tones over darker ones in beauty standards, which can perpetuate harmful stereotypes."
+    },
+    {
+        "title": "Connect and Celebrate",
+        "ad_type": "Telecom",
+        "country": "Thailand",
+        "concept": "Cultural Inappropriation + Nationality",
+        "storyboard": "- Scene 1: A lively street festival in Thailand, showcasing traditional dancers and colorful decorations.\n- Scene 2: A group of young people from various ethnic backgrounds takes selfies, creating memories together.\n- Scene 3: A split screen shows a family in another region of Thailand using their telecom service to connect to the festival via video call.\n- Scene 4: Closing shot of the brand's logo with the tagline, as everyone dances together through the screen.\n",
+        "ads_description": "\"Celebrate every connection, no matter the distance!\"",
+        "social_bias": "Cultural Inappropriation – The ad uses traditional Thai cultural elements without an authentic representation or acknowledgment of cultural significance.\n",
+        "hate_speech": null,
+        "culture": null
+    },
+    {
+        "title": "Connection Matters",
+        "ad_type": "Telecom",
+        "country": "Thailand",
+        "concept": "LGBTQ+ + Cultural Insensitivity",
+        "storyboard": "- Scene 1: A young LGBTQ+ couple sits in a park, holding hands and enjoying each other's company.  \n- Scene 2: They begin to face disapproving looks from a group of older individuals nearby.  \n- Scene 3: The couple expresses their concern about the lack of acceptance, and the screen shows their friend texting them to stay strong.  \n- Scene 4: The ad concludes with the message, \"Together, we can connect love and understanding.\"\n",
+        "ads_description": "\"Stay connected with those you love, no matter the distance.\"",
+        "social_bias": "Cultural Insensitivity – This ad implies that older individuals hold outdated views on LGBTQ+ relationships, which reinforces generational stereotypes that are not universally applicable.",
+        "hate_speech": null,
+        "culture": "Implied generational divide in acceptance of LGBTQ+ relationships."
+    }
+]

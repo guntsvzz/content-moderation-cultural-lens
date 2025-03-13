@@ -21,13 +21,14 @@
     - [Cultural Theory](#cultural-theory)
     - [Cultural Knowledge](#cultural-knowledge-1)
     - [Emotions](#emotions)
-    - [Hate Speech](#hate-speech)
+    - [Hate Speech \& Toxicity](#hate-speech--toxicity)
     - [Cultureal Bias \& Social Bias](#cultureal-bias--social-bias)
     - [Evaluation](#evaluation)
   - [Citation](#citation)
 
 ## 📰 News
-- [2025/02/05] Synthetic dataset 
+- [2025/03/13] Experiment 02 - Augment Cultural Knowledge to synthetic advertisment contents. 
+- [2025/02/05] Experiment 01 - Parametric Knowledge Synthetic dataset from advertisment contents.
 
 ## Introduction
 Social media platforms are widely popular and frequently serve as channels for advertisements. Increasingly, these advertisements rely on AI-driven content moderation to detect and filter harmful content such as hate speech, misinformation, and explicit material. While such advancements have improved online safety, current moderation systems often lack a cultural sensitivity lens—critical for understanding how diverse audiences interpret information.
@@ -134,30 +135,42 @@ _Additional detailed summaries and comparisons of each work will be added as the
   [Paper](https://irjems.org/Volume-3-Issue-10/IRJEMS-V3I10P130.pdf) | 
 - **2000 Culture, Emotion, and Well-being: Good Feelings in Japan and the United States**
   [Paper](https://web.stanford.edu/~hazelm/publications/2000%20Kitayama,%20Markus,%20&%20Kurokawa_Culture,emotion%20and%20well-being.pdf)
+- **1998 Transcultural Care: A guide for Health Care Professionals.**  
+  [Paper](https://ieneproject.eu/download/Outputs/intercultural%20model.pdf)
 
 ### Cultural Knowledge
-- **2024 Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**
+- **2024 Meta-Toxic : Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph**
   [Paper](https://arxiv.org/pdf/2412.15268) 
 - **2023 Culturally Aware Natural Language Inference**
   [Paper](https://aclanthology.org/2023.findings-emnlp.509.pdf)
-- **2024 CultureBank**
+- **2024 CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**
   [Paper](https://arxiv.org/pdf/2404.15238)
 - **2024 BLEND: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages**
   [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8eb88844dafefa92a26aaec9f3acad93-Paper-Datasets_and_Benchmarks_Track.pdf)
-- **2024 Mango Cultural Commonsense Knowledge for Intercultural Dialogues**
+- **2024 MANGO : Cultural Commonsense Knowledge for Intercultural Dialogues**
   [Paper](https://arxiv.org/pdf/2402.10689) [Code](https://mango.mpi-inf.mpg.de/)
-- **2023 Extracting Cultural Commonsense Knowledge at Scale**
+- **2023 CANDLE : Extracting Cultural Commonsense Knowledge at Scale**
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583535) [Code](https://candle.mpi-inf.mpg.de/)
 - **2025 NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**
   [Paper](https://arxiv.org/pdf/2404.12464)
+- **2023 GlobalOpinionQA : Towards Measuring the Representation of Subjective Global Opinions in Language Models**
+  [Paper](https://arxiv.org/abs/2306.16388)
 
 ### Emotions
 - **2020 GoEmotions: A Dataset of Fine-Grained Emotions**  
   [Paper](https://aclanthology.org/2020.acl-main.372.pdf)
 
-### Hate Speech
+### Hate Speech & Toxicity
+- **2025 Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models**
+  [Paper](https://arxiv.org/pdf/2411.03888#page=15.45)
 - **2024 Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis**  
   [paper](https://aclanthology.org/2024.naacl-long.236v2.pdf) 
+- **2024 Can LLMs Recognize Toxicity? A Structured Investigation Framework and Toxicity Metric**
+  [Paper](https://arxiv.org/pdf/2402.06900)
+- **2024 Don’t Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection**
+  [Paper](https://arxiv.org/pdf/2402.11406)
+- **2024 Socio-Culturally Aware Evaluation Framework for LLM-Based Content Moderation*
+  [Paper](https://arxiv.org/pdf/2412.13578)
   
 ### Cultureal Bias & Social Bias
 - **2024 Having Beer after Prayer? Measuring Cultural Bias in Large Language Models**
@@ -168,8 +181,10 @@ _Additional detailed summaries and comparisons of each work will be added as the
   [Paper](https://aclanthology.org/2020.acl-main.486.pdf)
   
 ### Evaluation
-- **CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge**
+- **2024 CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge**
   [Paper](https://arxiv.org/pdf/2404.06664)
+- **2024 Evaluating Cultural and Social Awareness of LLM Web Agents**
+  [Paper](https://arxiv.org/pdf/2410.23252)
   
 ## Citation 
 If you find this work useful, please consider citing our paper:
