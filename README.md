@@ -21,6 +21,7 @@
   - [📋 Citation](#-citation)
 
 ## 📰 News
+- [2025/03/xx] Experiment 03 - Evaluate LLM-as-a-Judge
 - [2025/03/13] Experiment 02 - Augment Cultural Knowledge to synthetic advertisment contents. 
 - [2025/02/05] Experiment 01 - Parametric Knowledge Synthetic dataset from advertisment contents.
 - [2025/01/01] Experiment 00 - Reserach Idea 
@@ -99,12 +100,10 @@ The workflow and integration of these components are visually summarized in the 
 ![Methodology Overview](./figures/framework-com-ads.png)
 
 ## Papers
-Below is a curated list of key papers that have contributed to the field, along with their associated resources. Feel free to explore these works for more insights:
 
 This section provides a comprehensive review of existing literature on AI moderation, cultural sensitivity, and related frameworks. It highlights:
 - Trends and challenges in AI content moderation.
 - The role of cultural sensitivity in improving automated systems.
-- Comparative analyses of explicit vs. implicit cultural elements in research.
 
 - **ACL-2023: Title of the Paper**  
   [paper](#) | [code](#) | *Authors: Author1, Author2, Author3*
@@ -124,10 +123,12 @@ This section provides a comprehensive review of existing literature on AI modera
   [Paper](https://arxiv.org/pdf/2412.15268) | Code 
 - **2023 Culturally Aware Natural Language Inference**
   [Paper](https://aclanthology.org/2023.findings-emnlp.509.pdf) | Code 
+- **2024 CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models**
+  [Paper](https://arxiv.org/pdf/2405.13974) | Code | [Dataset](https://huggingface.co/datasets/CIVICS-dataset/CIVICS)
 - **2024 CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**
   [Paper](https://arxiv.org/pdf/2404.15238) | Code 
 - **2024 BLEND: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages**
-  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8eb88844dafefa92a26aaec9f3acad93-Paper-Datasets_and_Benchmarks_Track.pdf) | Code 
+  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8eb88844dafefa92a26aaec9f3acad93-Paper-Datasets_and_Benchmarks_Track.pdf) | [Code](https://github.com/nlee0212/BLEnD) | [Dataset](https://huggingface.co/datasets/nayeon212/BLEnD)
 - **2024 MANGO : Cultural Commonsense Knowledge for Intercultural Dialogues**
   [Paper](https://arxiv.org/pdf/2402.10689) | [Code](https://mango.mpi-inf.mpg.de/)
 - **2023 CANDLE : Extracting Cultural Commonsense Knowledge at Scale**
@@ -136,6 +137,9 @@ This section provides a comprehensive review of existing literature on AI modera
   [Paper](https://arxiv.org/pdf/2404.12464)| Code 
 - **2023 GlobalOpinionQA : Towards Measuring the Representation of Subjective Global Opinions in Language Models**
   [Paper](https://arxiv.org/abs/2306.16388)| Code 
+- **2024 LLM-MassiveMulticultureNormsKnowledge-NCLB**
+  [paper](https://arxiv.org/pdf/2402.09369) [data](https://drive.google.com/drive/folders/1LN8yrKseTJIAb3FdIr0-Jy3eZNZUI7vo) [transition](https://blender.cs.illinois.edu/ccu/TransitionVNorms.zip
+  )
 
 ### Emotions
 - **2020 GoEmotions: A Dataset of Fine-Grained Emotions**  
@@ -166,7 +170,8 @@ This section provides a comprehensive review of existing literature on AI modera
   [Paper](https://arxiv.org/pdf/2404.06664)| Code 
 - **2024 Evaluating Cultural and Social Awareness of LLM Web Agents**
   [Paper](https://arxiv.org/pdf/2410.23252)| Code 
-  
+- **2024 Translating Across Cultures: LLMs for Intralingual Cultural Adaptation**
+  [Paper](https://arxiv.org/pdf/2406.14504) | [Code](https://github.com/iampushpdeep/CulturalAdaptEval)
 ## 📋 Citation 
 If you find this work useful, please consider citing our paper:
 ```
