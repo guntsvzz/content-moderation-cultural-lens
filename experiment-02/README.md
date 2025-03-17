@@ -2,6 +2,9 @@
 
 This repository provides instructions for downloading two cultural commonsense knowledge datasets: **Mango** and **Candle**. These datasets are designed to support research in intercultural dialogues and the extraction of cultural commonsense knowledge at scale.
 
+![Methodology Overview](./figures/synthetic-framework.png)
+
+
 ## Datasets Overview
 
 - **Mango Dataset**

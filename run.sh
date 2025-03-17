@@ -1,8 +1,9 @@
-# use 3.9.6
-source ~/.bash_profile 
 # --------- Experiment 01 ---------
-python3 experiment-01/run-v1.py
-python3 experiment-01/run-v2.py
+poetry run python experiment-01/run-1.py
+poetry run python experiment-01/run-2.py
 
 # --------- Experiment 02 ---------
-python3 experiment-02/run.py
+poetry run python experiment-02/run.py
+
+# --------- Experiment 03 ---------
+poetry run python experiment-03/run.py
