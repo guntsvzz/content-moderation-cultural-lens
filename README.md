@@ -18,6 +18,10 @@
     - [Hate Speech \& Toxicity](#hate-speech--toxicity)
     - [Cultural Bias \& Social Bias](#cultural-bias--social-bias)
     - [Evaluation](#evaluation)
+  - [🧪 Running Experiments](#-running-experiments)
+    - [1. Install the Poetry Environment](#1-install-the-poetry-environment)
+    - [2. View Available Commands](#2-view-available-commands)
+    - [3. Run an Experiment](#3-run-an-experiment)
   - [📋 Citation](#-citation)
 
 ## 📰 News
@@ -175,6 +179,78 @@ This section provides a comprehensive review of existing literature on AI modera
   [Paper](https://arxiv.org/pdf/2406.14504) | [Code](https://github.com/iampushpdeep/CulturalAdaptEval)
 - 2024 Extrinsic Evaluation of Cultural Competence in Large Language Models 
   [Paper](https://arxiv.org/abs/2406.11565) | [Code](https://github.com/shaily99/eecc) [Dataset](https://huggingface.co/datasets/shaily99/eecc)
+
+
+
+
+## 🧪 Running Experiments
+
+To run the experiments associated with this project, follow these steps:
+
+### 1. Install the Poetry Environment
+
+First, ensure that you have Poetry installed. Poetry is a tool for managing Python dependencies and running tasks. If you don't have Poetry installed, you can install it with the following command:
+
+```sh
+$ poetry install
+```
+
+This command will install all the necessary dependencies specified in the `pyproject.toml` file.
+
+### 2. View Available Commands
+
+Once Poetry is installed, you can use `poe` to see the list of available task commands that you can run. To view them, simply execute:
+
+```sh
+$ poe
+```
+
+The output will show available tasks, like the following:
+
+```sh
+Poe the Poet - A task runner that works well with poetry.
+version 0.25.0
+
+Result: No task specified.
+
+USAGE
+  poe [-h] [-v | -q] [--root PATH] [--ansi | --no-ansi] task [task arguments]
+
+GLOBAL OPTIONS
+  -h, --help     Show this help page and exit
+  --version      Print the version and exit
+  -v, --verbose  Increase command output (repeatable)
+  -q, --quiet    Decrease command output (repeatable)
+  -d, --dry-run  Print the task contents but don't actually run it
+  --root PATH    Specify where to find the pyproject.toml
+  --ansi         Force enable ANSI output
+  --no-ansi      Force disable ANSI output
+
+CONFIGURED TASKS
+  exp-01-1       
+  exp-01-2       
+  exp-02         
+  exp-03  
+```
+
+This output will help you identify what tasks are available for running.
+
+### 3. Run an Experiment
+
+The tasks are organized by experiment numbers, and you can execute them by using `poe` with the task name. For example, to run Experiment 01, you can execute:
+
+```sh
+$ poe exp-01-1
+```
+
+Or, if you wish to run another experiment, such as Experiment 02:
+
+```sh
+$ poe exp-02
+```
+
+Each task is defined in the `pyproject.toml` file and may include specific arguments like dataset names or sample sizes. Check the respective task for more details.
+
 ## 📋 Citation 
 If you find this work useful, please consider citing our paper:
 ```
