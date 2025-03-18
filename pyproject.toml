@@ -14,6 +14,23 @@ pydantic = "^2.10.6"
 spacy = "^3.7.4"
 smart-open = {version = "*", python = ">=3.9.6,<4.0"}
 en_core_web_sm = {url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl"}
+datasets = "^3.4.1"
+
+[tool.poe.tasks.exp-01-1]
+cmd = "python3 experiment-01/run-1.py"
+envfile = [".env"]
+
+[tool.poe.tasks.exp-01-2]
+cmd = "python3 experiment-01/run-2.py"
+envfile = [".env"]
+
+[tool.poe.tasks.exp-02]
+cmd = "python3 experiment-02/run.py --dataset_name culture-bank --num_sample 2"
+envfile = [".env"]
+
+[tool.poe.tasks.exp-03]
+cmd = "python3 experiment-03/run.py"
+envfile = [".env"]
 
 [build-system]
 requires = ["poetry-core"]

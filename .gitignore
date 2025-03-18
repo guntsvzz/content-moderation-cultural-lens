@@ -1,2 +1,7 @@
 .env
 *.jsonl
+*.txt
+*.pkl
+*.csv
+*.pdf
+**/__pycache__/
