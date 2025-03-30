@@ -1,9 +1,0 @@
-https://drive.google.com/drive/folders/1kqzBi3TxWQYPzBw5AAvglq7ds1eSPeX4
-CANDLE
-MONGO
-NormAd
-https://github.com/Akhila-Yerukola/NormAd
-CultureBank
-https://huggingface.co/datasets/SALT-NLP/CultureBank/viewer/default/tiktok?views%5B%5D=tiktok&row=2
-noculture-left-behind
-https://drive.google.com/drive/folders/1ueUjBCqCxH2ZUAHmG1qGJ6XcC7or8fMZ

@@ -24,8 +24,12 @@ envfile = [".env"]
 cmd = "python3 experiment-01/run-2.py"
 envfile = [".env"]
 
-[tool.poe.tasks.exp-02]
+[tool.poe.tasks.exp-02-culture-bank]
 cmd = "python3 experiment-02/run.py --dataset_name culture-bank --num_sample 2"
+envfile = [".env"]
+
+[tool.poe.tasks.exp-02-culture-atlas-negative]
+cmd = "python3 experiment-02/run.py --dataset_name culture-atlas-negative --num_sample 30"
 envfile = [".env"]
 
 [tool.poe.tasks.exp-03]

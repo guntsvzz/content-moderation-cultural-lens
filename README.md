@@ -18,6 +18,7 @@
     - [Hate Speech \& Toxicity](#hate-speech--toxicity)
     - [Cultural Bias \& Social Bias](#cultural-bias--social-bias)
     - [Evaluation](#evaluation)
+    - [Stragetic Advertisment Knowledge](#stragetic-advertisment-knowledge)
   - [🧪 Running Experiments](#-running-experiments)
     - [1. Install the Poetry Environment](#1-install-the-poetry-environment)
     - [2. View Available Commands](#2-view-available-commands)
@@ -177,11 +178,16 @@ This section provides a comprehensive review of existing literature on AI modera
   [Paper](https://arxiv.org/pdf/2410.23252) | Code 
 - 2024 Translating Across Cultures: LLMs for Intralingual Cultural Adaptation
   [Paper](https://arxiv.org/pdf/2406.14504) | [Code](https://github.com/iampushpdeep/CulturalAdaptEval)
-- 2024 Extrinsic Evaluation of Cultural Competence in Large Language Models 
+- 2023 Extrinsic Evaluation of Cultural Competence in Large Language Models 
   [Paper](https://arxiv.org/abs/2406.11565) | [Code](https://github.com/shaily99/eecc) [Dataset](https://huggingface.co/datasets/shaily99/eecc)
-
-
-
+- 2023 Persuasion Strategies in Advertisements
+  [Paper](https://arxiv.org/pdf/2208.09626) | Code | [Dataset](https://midas-research.github.io/persuasion-advertisements/)
+ 
+### Stragetic Advertisment Knowledge
+- 2017 Automatic Understanding of Image and Video Advertisements
+  [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hussain_Automatic_Understanding_of_CVPR_2017_paper.pdf) | Code | [Dataset](https://gist.github.com/kyamagu/0aa8c06501bd8a5816640639d4d33a17)
+- 2023 A Video Is Worth 4096 Tokens: Verbalize Videos To Understand Them In Zero Shot
+  [Paper](https://arxiv.org/pdf/2305.09758v3) | Code | [Dataset](https://github.com/midas-research/video-persuasion)
 
 ## 🧪 Running Experiments
 
